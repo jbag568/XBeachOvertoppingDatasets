@@ -22,7 +22,7 @@ The XBeachDatasets.zip file contains two .csv spreadsheets:
 - T_m1_0 = $T_{m-1,0}$: Spectral wavelength at offshore boundary [m]
 - L_m1_0 = $L_{m-1,0}$: Spectral wavelength at offshore boundary [m]
 - S_m1_0 = $s_{m-1,0}$: Spectral wave steepness [-]
-- xi_m1_0 = $\xi_{m-1,0}$: Irribarren number [-]
+- xi_m1_0 = $\xi_{m-1,0}$: Iribarren number [-]
 - V_max = $V_{\max}$: Maximum overtopped wave volume [m$^3$/m]
 - N_ow = $N_{ow}$: Number of overtopped waves [-]
 - q_mean = $q_{mean}$: Mean wave overtopping discharge [m$^3$/s/m]
