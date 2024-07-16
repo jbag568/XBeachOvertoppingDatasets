@@ -18,7 +18,7 @@ A dataset of 179,047 rows, for each individual overtopped bore from the XBeach p
 - Hm0_t = $H_{m0,t}$: Spectral wave height at the structure toe [m]
 - Ac_Hm0 = $\frac{Ac}{H_{m0}}$: Relative freeboard [-]
 - Ac_Hm0_t = $\frac{Ac}{H_{m0,t}}$: Relative freeboard using spectral wave height at toe [-]
-- T_m1_0 = $T_{m-1,0}_{}$: Spectral wavelength at offshore boundary [m]
+- T_m1_0 = $T_{m-1,0}$: Spectral wavelength at offshore boundary [m]
 - L_m1_0 = $L_{m-1,0}$: Spectral wavelength at offshore boundary [m]
 - S_m1_0 = $s_{m-1,0}$: Spectral wave steepness [-]
 - xi_m1_0 = $\xi_{m-1,0}$: Irribarren number [-]
