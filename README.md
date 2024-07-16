@@ -30,13 +30,13 @@ Ac_Hm0 = $Ac/H_{m0}$   Relative freeboard [-]
 
 Ac_Hm0_t = $Ac/H_{m0,t}$   Relative freeboard using spectral wave height at toe [-]
 
-T_m_1_0 = $T_{m-1,0}$   Spectral wave period at offshore boundary [s]
+T_m_1_0 = $T_{m-1,0}$   Spectral wave period at offshore boundary [m]
 
 L_m_1_0 = $L_{m-1,0}$   Spectral wavelength at offshore boundary [m]
 
 S_m_1_0 = $s_{m-1,0}$   Spectral wave steepness [-]
 
-Xi_m_1_0 = $\Xi_{m-1,0}$   Irribarren number [-]
+Xi_m_1_0 = $\xi_{m-1,0}$   Irribarren number [-]
 
 V_max = $V_{\max}$   Maximum overtopped wave volume [m$^3$/m]
 
