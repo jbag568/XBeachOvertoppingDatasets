@@ -1,14 +1,57 @@
-# XBeachOvertoppingDatasets
+![image](https://github.com/user-attachments/assets/005a40b9-9df8-4918-88df-59e0a2ce6630)# XBeachOvertoppingDatasets
 
 Datasets are provided as supplementary material to the publication:
 Bagg, J., Battley, M., Whittaker, C., Shand, T., 2024. Application of laboratory dam break experiments to non-impulsive wave overtopping. Coastal Engineering.
 
 XBeach_Overtopping_Summary_Dataset_07_2024.csv
+
 A dataset of 105 rows for each XBeach simulation. Used for comparison with EurOtop (2018).
 
 
 XBeach_Individual_Overtopped_Bores_Dataset_07_2024.csv
+
 A dataset of 179,047 rows, for each individual overtopped bore from the XBeach parametric study. 
 
 Variables:
-cota = $\cot(\alpha)$ structure slope 
+
+cota = $\cot(\alpha)$ structure slope  [-]
+
+H = $H$ Input boundary condition wave height [m]
+
+Tp = $T_p$ Input boundary condition peak period [s]
+
+Ac = $A_c$ Structure freeboard [m]
+
+Hm0 = $H_{m0}$ Spectral wave height at offshore boundary [m]
+
+Hm0_t = $H_{m0,t}$ Spectral wave height at the structure toe [m]
+
+Ac_Hm0 = $Ac/H_{m0}$ Relative freeboard [-]
+
+Ac_Hm0_t = $Ac/H_{m0,t}$ Relative freeboard using spectral wave height at toe [-]
+
+T_m_1_0 = $T_{m-1,0}$ Spectral wave period at offshore boundary [s]
+
+L_m_1_0 = $L_{m-1,0}$ Spectral wavelength at offshore boundary [m]
+
+S_m_1_0 = $s_{m-1,0}$ Spectral wave steepness [-]
+
+Xi_m_1_0 = $\Xi_{m-1,0}$ Irribarren number [-]
+
+V_max = $V_{\max}$ Maximum overtopped wave volume [m$^3$/m]
+
+N_ow = $N_{ow}$ Number of overtopped waves [-]
+
+q_mean = $q_{mean}$ Mean wave overtopping discharge [m$^3$/s/m]
+
+xc = $x_c$ Distance from the crest edge [m]
+
+h_max = $h_{\max}$ Maximum water depth in an individual overtopped bore [m]
+
+u_max = $u_{\max}$ Maximum velocity in an individual overtopped bore [m/s]
+
+q_max = $q_{\max}$ Maximum flowrate in an individual overtopped bore [m$^2$/s]
+
+M_max = $M_{\max}$ Maximum specific momentum flux in an individual overtopped bore [m$^3$/s$^2$]
+
+V = $V$ Volume per individual overtopped bore [m$^3$/m]
