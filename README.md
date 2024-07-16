@@ -15,8 +15,8 @@ A dataset of 179,047 rows, for each individual overtopped bore from the XBeach p
 
 ## Variables:
 
-- `cota = $\cot(\alpha)$`: Structure slope  [-]
-- `H = $H$`: Input boundary condition wave height [m]
+- cota = $\cot(\alpha)$: Structure slope  [-]
+- H = $H$: Input boundary condition wave height [m]
 - `Tp = $T_p$`: Input boundary condition peak period [s]
 - `Ac = $A_c$`: Structure freeboard [m]
 - `Hm0 = $H_{m0}$`: Spectral wave height at offshore boundary [m]
