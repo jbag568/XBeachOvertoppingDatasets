@@ -4,7 +4,7 @@ Datasets are provided as supplementary material to the publication:
 
 Bagg, J., Battley, M., Whittaker, C., Shand, T., 2024. Application of laboratory dam break experiments to non-impulsive wave overtopping. Coastal Engineering.
 
-The XBeachDatasets.zip file contains two .csv spreadsheets:
+The XBeachDatasets.zip file contains:
 
 - XBeach_Overtopping_Summary_Dataset_07_2024.csv
 - XBeach_Individual_Overtopped_Bores_Dataset_07_2024.csv
